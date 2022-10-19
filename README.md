@@ -2,7 +2,7 @@
 
 ### Rule 💕
 
-> Upload post to [Medium.com](http://Medium.com) about development knowledge.
+> Upload post to Medium.com about development knowledge.
 > 
 
 > In principle, you must <b>write post in English</b>, and the goal is to post at least <b>one post every three days.</b>
@@ -16,7 +16,15 @@
 
 ```
 [board_name](medium_link)
+
 ```
+
+### Contributor
+
+| Name | 유희진 | 최태현 |
+| --- | --- | --- |
+| Profile | <img width="200px" src="https://avatars.githubusercontent.com/u/96467030?v=4" /> | <img width="200px" src="https://avatars.githubusercontent.com/u/102430422?v=4" /> |
+| gitHub | [yu-heejin](https://github.com/yu-heejin) | [xogus2394](https://github.com/xogus2394) |
 
 ### Frontend 🤭
 
