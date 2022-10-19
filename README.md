@@ -23,8 +23,8 @@
 
 | Name | 유희진 | 최태현 |
 | --- | --- | --- |
-| Profile | <img width="200px" src="https://avatars.githubusercontent.com/u/96467030?v=4" /> | <img width="200px" src="https://avatars.githubusercontent.com/u/102430422?v=4" /> |
 | gitHub | [yu-heejin](https://github.com/yu-heejin) | [xogus2394](https://github.com/xogus2394) |
+   
 
 ### Frontend 🤭
 
