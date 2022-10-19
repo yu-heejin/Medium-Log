@@ -5,13 +5,13 @@
 > Upload post to [Medium.com](http://Medium.com) about development knowledge.
 > 
 
-> In principle, you must write post in English, and the goal is to post at least one post every three days.
+> In principle, you must <b>write post in English</b>, and the goal is to post at least <b>one post every three days.</b>
 > 
 
 > If you wrote article, please record the article link in this README!
 > 
 
-> How to write board link
+> How to add board link
 > 
 
 ```
