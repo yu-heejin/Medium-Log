@@ -16,7 +16,6 @@
 
 ```
 [board_name](medium_link)
-
 ```
 
 ### Contributor
@@ -25,7 +24,7 @@
 | --- | --- | --- |
 | gitHub | [yu-heejin](https://github.com/yu-heejin) | [xogus2394](https://github.com/xogus2394) |
    
-
+　
 ### Frontend 🤭
 
 ---
