@@ -16,6 +16,8 @@
 
 ```
 [board_name](medium_link)
+
+board name form : [category] article title
 ```
 
 ### Contributor
