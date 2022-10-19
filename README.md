@@ -36,6 +36,8 @@
 ### DevOps 🐋
 
 ---
+### Computer Science ⚡
+---
 
 ### Etc 💫
 
