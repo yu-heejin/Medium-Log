@@ -20,7 +20,7 @@
 
 ### Contributor
 
-| Name | 유희진 | 최태현 |
+| Name | Hee Jin Yu | Tai Hyun Choi |
 | --- | --- | --- |
 | gitHub | [yu-heejin](https://github.com/yu-heejin) | [xogus2394](https://github.com/xogus2394) |
    
