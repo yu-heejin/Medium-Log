@@ -11,7 +11,7 @@
 > If you wrote a article, please add the article link in this README!
 > 
 
-> How to add board link
+> How to add the board link
 > 
 
 ```
