@@ -8,7 +8,7 @@
 > In principle, you must <b>write a post in English</b>, and the goal is to post at least <b>one post every three days.</b>
 > 
 
-> If you wrote article, please add the article link in this README!
+> If you wrote a article, please add the article link in this README!
 > 
 
 > How to add board link
