@@ -28,6 +28,7 @@ board name form : [category] article title
    
 　
 ### Frontend 🤭
+* [[Basic Frontend] How to set up and install development environment of React (written by Hee Jin Yu)](https://medium.com/@hee98.09.14/basic-frontend-how-to-set-up-and-install-development-environment-of-react-dd21063f87c)
 
 ---
 
