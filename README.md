@@ -33,7 +33,8 @@ board name form : [category] article title (written by contributor name)
 ---
 
 ### Backend 😎
-
+* [[Spring Boot Backend] Maven Gradle (written by choi Tae Hyeon)]
+(https://medium.com/@speed5075/maven-and-gradle-3ac5db73c98)
 ---
 
 ### DevOps 🐋
