@@ -43,5 +43,5 @@ board name form : [category] article title (written by contributor name)
 ---
 
 ### Etc 💫
-* [[Basic Java] About Static Factory Method - 1 written by Hee Jin Yu](https://medium.com/@hee98.09.14/about-static-factory-method-1-80c44b9ae815)
+* [[Basic Java] About Static Factory Method - 1 (written by Hee Jin Yu)](https://medium.com/@hee98.09.14/about-static-factory-method-1-80c44b9ae815)
 ---
