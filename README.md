@@ -22,9 +22,9 @@ board name form : [category] article title (written by contributor name)
 
 ### Contributor
 
-| Name | Hee Jin Yu | Tai Hyun Choi |
-| --- | --- | --- |
-| gitHub | [yu-heejin](https://github.com/yu-heejin) | [xogus2394](https://github.com/xogus2394) |
+| Name | Hee Jin Yu | Tai Hyun Choi | Hae Ryn Jeong |
+| --- | --- | --- | --- |
+| gitHub | [yu-heejin](https://github.com/yu-heejin) | [xogus2394](https://github.com/xogus2394) | [HAERYN](https://github.com/HAERYN) |
    
 　
 ### Frontend 🤭
