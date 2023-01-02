@@ -23,7 +23,7 @@ board name form : [category] article title (written by contributor name)
 ### Contributor
 
 | Name | Hee Jin Yu | Tai Hyun Choi | Hae Ryn Jeong |
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | gitHub | [yu-heejin](https://github.com/yu-heejin) | [xogus2394](https://github.com/xogus2394) | [HAERYN](https://github.com/HAERYN) |
    
 　
@@ -34,7 +34,7 @@ board name form : [category] article title (written by contributor name)
 
 ### Backend 😎
 * [[Spring Boot Backend] Maven Gradle (written by choi Tae Hyeon)](https://medium.com/@speed5075/maven-and-gradle-3ac5db73c98)
-* [[Spring Boot Backend] SpringBoot Framework(written by choi tae Hyeon)(https://medium.com/@speed5075/spring-study-c5b984ca2dcf)
+* [[Spring Boot Backend] SpringBoot Framework(written by choi tae Hyeon)](https://medium.com/@speed5075/spring-study-c5b984ca2dcf)
 ---
 
 ### DevOps 🐋
